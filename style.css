@@ -4,7 +4,8 @@
     background-image: url('coquette.png');
     background-repeat: no-repeat;
     background-size: cover;
-    height: auto;
+    height: 100%;
+    width: 100%;
     position: relative;
 }
 
